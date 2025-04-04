@@ -49,7 +49,7 @@ export default function TodoList() {
   return (
     <div className="todo-container">
       <h1 className="main-heading">Ultimate Task Manager</h1>
-      <h2 className="sub-heading">Organize Your Life Efficiently</h2>
+      <h2 className="sub-heading">23BCE0972 SRIRAM KANCHERLA</h2>
       <div className="input-group">
         <input
           value={task}
